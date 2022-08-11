@@ -5,15 +5,15 @@
     width: 1122px;
 }
 
-.custom.disconnected {
+.fight-stick.disconnected {
     background: url(https://gamepadviewer.com/stick-assets/disconnected.svg) no-repeat;
 }
 
-.custom.disconnected div {
+.fight-stick.disconnected div {
     display: none;
 }
 
-.custom .triggers {
+.fight-stick .triggers {
     width: 326px;
     height: 198px;
     position: absolute;
