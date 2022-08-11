@@ -1,12 +1,12 @@
 
 .controller.custom {
-    background: url(https://i.imgur.com/FjA5goh.png) center no-repeat;
+    background: url(base.png) center no-repeat;
     height: 534px;
     width: 1122px;
 }
 
 .custom.disconnected {
-    background: url(stick-assets/disconnected.svg) no-repeat;
+    background: url(https://gamepadviewer.com/stick-assets/disconnected.svg) no-repeat;
 }
 
 .custom.disconnected div {
@@ -185,7 +185,6 @@
     height: 221px;
     top: 199px;
     left: 192px;
-    background: url(stick-assets/stick.svg)
 }
 
 .custom .fstick.up {
@@ -221,7 +220,7 @@
 }
 
 .controller.custom {
-    background: url(https://i.imgur.com/FjA5goh.png) center no-repeat;
+    background: url(basepng) center no-repeat;
     height: 534px;
     width: 1122px;
 }
@@ -375,25 +374,20 @@
     position: absolute;
 }
 
-/* .custom .button.pressed {
-    background: url(https://i.imgur.com/JAL8fmu.png) center no-repeat;
-}
-*/
-
 .custom .a.pressed{
-    background: url(https://i.imgur.com/IMSamAz.png) center no-repeat;
+    background: url(A_Pressed.png) center no-repeat;
 }
 
 .custom .b.pressed{
-    background: url(https://i.imgur.com/G2P0LWo.png) center no-repeat;
+    background: url(B_Pressed.png) center no-repeat;
 }
 
 .custom .x.pressed{
-    background: url(https://i.imgur.com/JAL8fmu.png) center no-repeat;
+    background: url(MS_Pressed.png) center no-repeat;
 }
 
 .custom .y.pressed{
-    background: url(https://i.imgur.com/JMgt8BJ.png) center no-repeat;
+    background: url(S_Pressed.png) center no-repeat;
 }
 
 .custom .a {
