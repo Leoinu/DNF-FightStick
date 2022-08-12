@@ -30,10 +30,11 @@
     display: block;
 }
 
-.custom .trigger-button.pressed {
+/* .custom .trigger-button.pressed {
     transform: translateY(5px);
     -webkit-filter: invert(1);
 }
+*/
 
 .custom .trigger-button.left {
     position: absolute;
