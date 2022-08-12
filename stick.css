@@ -55,6 +55,9 @@
 
 .custom .trigger-button.right {
     float: left;
+    position: fixed;
+    bottom: 176px;
+    right: 385px;
 }
 
 .custom .bumpers {
