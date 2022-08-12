@@ -133,11 +133,6 @@
     left: -1px;
 }
 
-.custom .back.pressed, .custom .start.pressed {
-    transform: translateY(5px);
-    -webkit-filter: invert(1);
-}
-
 .custom .abxy {
     position: absolute;
     width: 310px;
