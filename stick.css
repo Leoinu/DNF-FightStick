@@ -34,7 +34,7 @@
     background: url(ASPressed.png) center no-repeat;
 }
 
-.custom .trigger-button.left.pressed{
+.custom .trigger-button.right.pressed{
     background: url(GSPressed.png) center no-repeat;
 }
     
