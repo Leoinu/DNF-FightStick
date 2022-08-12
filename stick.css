@@ -155,34 +155,42 @@
 }
 .custom .fstick.up {
     background-position-x: -1762px;
+    url(StickImages/Top.png) center no-repeat;
 }
 
 .custom .fstick.down {
     background-position-x: -882px;
+    url(StickImages/Bottom.png) center no-repeat;
 }
 
 .custom .fstick.left {
     background-position-x: -1322px;
+    url(StickImages/Left.png) center no-repeat;
 }
 
 .custom .fstick.right {
     background-position-x: -442px;
+    url(StickImages/Right.png) center no-repeat;
 }
 
 .custom .fstick.up.right {
     background-position-x: -222px;
+    url(StickImages/TopRight.png) center no-repeat;
 }
 
 .custom .fstick.up.left {
     background-position-x: -1542px;
+    url(StickImages/TopLeft.png) center no-repeat;
 }
 
 .custom .fstick.down.right {
     background-position-x: -662px;
+    url(StickImages/BottomRight.png) center no-repeat;
 }
 
 .custom .fstick.down.left {
     background-position-x: -1102px;
+    url(StickImages/BottomLeft.png) center no-repeat;
 }
 
 
@@ -238,5 +246,5 @@
     height: 221px;
     top: 190px;
     left: 226px;
-    background: url(StickImages/Center.png);
+    background: url(StickImages/Center.png) center no-repeat;
 }
