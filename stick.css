@@ -1,19 +1,19 @@
 
-.controller.fight-stick {
+.controller.custom {
     background: url(base.png);
     height: 534px;
     width: 1122px;
 }
 
-.fight-stick.disconnected {
+.fcustom.disconnected {
     background: url(https://gamepadviewer.com/stick-assets/disconnected.svg) no-repeat;
 }
 
-.fight-stick.disconnected div {
+.custom.disconnected div {
     display: none;
 }
 
-.fight-stick .triggers {
+.custom .triggers {
     width: 326px;
     height: 198px;
     position: absolute;
