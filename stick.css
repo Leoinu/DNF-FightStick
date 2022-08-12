@@ -219,11 +219,6 @@
     background-position-x: -1102px;
 }
 
-.controller.custom {
-    background: url(basepng) center no-repeat;
-    height: 534px;
-    width: 1122px;
-}
 
 .custom.disconnected {
     background: url(stick-assets/disconnected.svg) no-repeat;
