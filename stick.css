@@ -140,14 +140,6 @@
     bottom: 103px;
     left: 472px;
 }
-
-
-.custom .button.pressed {
-    transform: translateY(5px);
-    -webkit-filter: invert(1);
-}
-
-
 .custom .fstick.up {
     background-position-x: -1762px;
 }
