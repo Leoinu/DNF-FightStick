@@ -33,6 +33,10 @@
 .custom .trigger-button.left.pressed{
     background: url(ASPressed.png) center no-repeat;
 }
+
+.custom .trigger-button.left.pressed{
+    background: url(GSPressed.png) center no-repeat;
+}
     
     
 
@@ -194,7 +198,7 @@
 }
 
 .custom .b.pressed{
-    background: url(GPressed.png) center no-repeat;
+    background: url(SPressed.png) center no-repeat;
 }
 
 .custom .x.pressed{
@@ -202,7 +206,7 @@
 }
 
 .custom .y.pressed{
-    background: url(SPressed.png) center no-repeat;
+    background: url(BPressed.png) center no-repeat;
 }
 
 .custom .a {
