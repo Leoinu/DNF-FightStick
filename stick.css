@@ -63,11 +63,12 @@
     opacity: 1;
     display: block;
 }
-
+/* 
 .custom .bumper.pressed {
     transform: translateY(5px);
     -webkit-filter: invert(1);
 }
+*/
 
 .custom .bumper.left {
     position: absolute;
