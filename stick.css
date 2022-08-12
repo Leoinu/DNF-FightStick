@@ -184,19 +184,19 @@
 }
 
 .custom .a.pressed{
-    background: url(APressed.png) center no-repeat;
-}
-
-.custom .b.pressed{
-    background: url(BPressed.png) center no-repeat;
-}
-
-.custom .x.pressed{
     background: url(MSPressed.png) center no-repeat;
 }
 
+.custom .b.pressed{
+    background: url(GPressed.png) center no-repeat;
+}
+
+.custom .x.pressed{
+    background: url(APressed.png) center no-repeat;
+}
+
 .custom .y.pressed{
-    background: url(SPressed.png) center no-repeat;
+    background: url(BPressed.png) center no-repeat;
 }
 
 .custom .a {
