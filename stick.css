@@ -30,6 +30,12 @@
     display: block;
 }
 
+.custom .trigger-button.left.pressed{
+    background: url(ASPressed.png) center no-repeat;
+}
+    
+    
+
 /* .custom .trigger-button.pressed {
     transform: translateY(5px);
     -webkit-filter: invert(1);
@@ -196,7 +202,7 @@
 }
 
 .custom .y.pressed{
-    background: url(BPressed.png) center no-repeat;
+    background: url(SPressed.png) center no-repeat;
 }
 
 .custom .a {
@@ -205,8 +211,8 @@
 }
 
 .custom .b {
-    bottom: 78px;
-    right: 49px;
+    bottom: 228px;
+    right: -95px;
 }
 
 .custom .x {
